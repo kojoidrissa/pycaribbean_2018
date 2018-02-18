@@ -5,6 +5,7 @@ There are two directories in this repo, since I did a workshop and a presentatio
 
 ``intro_to_programming``: Python & Spreadsheets: An Introduction to Programming
 -----------------------------
+This workshop/tutorial introduces programming in Python. It uses working with spreadsheets as it's main example. The spreadsheet work is done with the `OpenPyXL <http://openpyxl.readthedocs.io/en/default/usage.html>`_ library.
 
 -  ``{integer}_filename.py``: the code files, numbered in the order you should run them.
 	-  Example: ``1_loading.py``
